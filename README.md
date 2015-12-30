@@ -1,1 +1,3 @@
 # spoj
+this repo contains some solutions of spoj 
+I will be uploading more of them....
